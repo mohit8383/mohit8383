@@ -61,7 +61,7 @@ Hi there! 👋 I'm **Mohit Kasat**, a **Computer Science** student at **Chandiga
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=mohit8383&icon=2&color=6)
+![Profile Views](https://visitcount.itsvg.in/api?id=mohit8383&icon=1&color=3)
 
 
 ### 🐍 GitHub Activity Snake
