@@ -1,71 +1,136 @@
-# 💫 About Me:
+# Hey there! 👋 I'm Mohit Kasat
 
-## 🚀 AI & Web Development Enthusiast | 💡 Problem Solver | 👨‍💻 Software Engineer in the Making
-
-Hi there! 👋 I'm **Mohit Kasat**, a **Computer Science** student at **Chandigarh University**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Web Development**. I love building **scalable web applications**, working on **cutting-edge AI solutions**, and solving **complex programming challenges**.
-
-### 🌟 What I Do?
-- 🔹 **AI & Machine Learning**: Building intelligent solutions with **Python, TensorFlow, PyTorch** 🤖
-- 🔹 **Full-Stack Web Development**: Developing scalable applications with **React, Next.js, Node.js, Express.js** 🌐
-- 🔹 **Competitive Programming**: Solving problems on **LeetCode, CodeChef, Codeforces** ⚡
-- 🔹 **Data Science & Analytics**: Playing with data using **Pandas, NumPy, Matplotlib** 📊
-
-🚀 **Actively looking for opportunities to contribute to impactful AI & web development projects!**
-
-📩 **Let's Connect!** — [Email Me](mailto:mohitkasat83@gmail.com)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Web+Development+Enthusiast;Full-Stack+Developer+%7C+CS+Student;Building+the+Future+with+Code+%26+AI;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+  
+</div>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kasat-1b5626202/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kasat.mohit)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/mohit8383)  
+## 🚀 About Me
+
+🎓 **Computer Science Student** at **Chandigarh University**  
+💡 **Passionate Problem Solver** building scalable solutions with cutting-edge technologies  
+🤖 **AI Enthusiast** exploring the frontiers of Machine Learning and Deep Learning  
+🌐 **Full-Stack Developer** crafting seamless user experiences  
+
+### 🎯 Current Focus
+- 🔥 Building intelligent AI solutions that solve real-world problems
+- 🚀 Developing scalable web applications with modern frameworks
+- 📚 Deepening expertise in Machine Learning and Data Science
+- 🏆 Competing in programming contests to sharpen problem-solving skills
 
 ---
 
-# 💻 Tech Stack:
+## 🛠️ Tech Arsenal
 
-### 🖥️ Programming & Scripting:
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-### 🎨 Frontend Development:
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🏗️ Backend Development:
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+### 🤖 AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### ⚙️ DevOps & Cloud:
-![Docker](https://img.shields.io/badge/Docker-%230099DB.svg?style=for-the-badge&logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohit8383&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit8383&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit8383&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### ✍️ Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
 
-### 🏆 GitHub Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=mohit8383&theme=tokyonight&no-frame=true&row=1)
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit8383&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit8383&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit8383&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
+## 🏆 Achievements & Activity
 
-### 🐍 GitHub Activity Snake
-![GitHub Snake](https://raw.githubusercontent.com/mohit8383/mohit8383/output/github-snake.svg)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohit8383&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy"/>
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mohit8383&theme=tokyo-night&bg_color=1a1b27&color=be95ff&line=628fdb&point=a7a7a7&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
-🔗 **Powered by [GPRM](https://gprm.itsvg.in)**
+## 💡 What Drives Me
 
+> *"The best way to predict the future is to create it."* - Peter Drucker
+
+I'm passionate about leveraging technology to create meaningful impact. Whether it's developing AI solutions that solve complex problems or building web applications that enhance user experiences, I believe in the power of code to transform ideas into reality.
+
+### 🌟 Areas of Interest
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Deep Learning & Neural Networks**
+- 🌐 **Full-Stack Web Development**
+- 📊 **Data Science & Analytics**
+- 🏗️ **System Architecture & Design**
+
+---
+
+## 🎯 Current Projects & Goals
+
+🔹 Building an AI-powered web application that combines ML models with modern web frameworks  
+🔹 Contributing to open-source projects in the AI/ML community  
+🔹 Expanding knowledge in cloud computing and DevOps practices  
+🔹 Preparing for technical interviews and competitive programming contests  
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kasat-1b5626202/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kasat.mohit)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohit8383)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitkasat83@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/mohit8383/mohit8383/output/github-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mohit8383&color=blueviolet&style=for-the-badge)
+  
+  ⭐ **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  
+</div>
